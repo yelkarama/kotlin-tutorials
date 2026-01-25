@@ -14,7 +14,7 @@
     </parent>
 
     <properties>
-        <ktor.version>2.3.7</ktor.version>
+        <ktor.version>3.4.0</ktor.version>
         <rsocket.version>0.15.4</rsocket.version>
     </properties>
 
