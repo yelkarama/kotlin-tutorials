@@ -270,7 +270,7 @@
         <kotlin.code.style>official</kotlin.code.style>
         <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
 
-        <wildfly.version>8.2.1.Final</wildfly.version>
+        <wildfly.version>9.0.0.Final</wildfly.version>
         <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
         <maven-dependency-plugin.version>3.1.1</maven-dependency-plugin.version>
         <maven-war-plugin.version>3.0.0</maven-war-plugin.version>
